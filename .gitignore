@@ -60,3 +60,30 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user-specific (вложенные пути тоже)
+**/*.xcworkspace/xcuserdata/
+**/*.xcodeproj/project.xcworkspace/xcuserdata/
+**/*.xcuserdatad
+**/*.xcuserstate
+*.moved-aside
+
+# Xcode build artifacts
+DerivedData/
+
+# SwiftPM local builds (в т.ч. внутри Packages/)
+**/.build/
+.swiftpm/
+
+# IDEs (optional)
+.vscode/
+.idea/
+
+# Local secrets/config (если появятся)
+Secrets.xcconfig
+.env
