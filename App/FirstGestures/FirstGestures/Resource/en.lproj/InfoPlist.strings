@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FirstGestures
+
+  Created by Valery Shel on 30.10.2025.
+  
+*/
+
+"CFBundleDisplayName" = "First Gestures";
+"NSPhotoLibraryAddUsageDescription" = "Allow saving practice PDFs to your Photos.";
