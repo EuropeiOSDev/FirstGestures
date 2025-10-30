@@ -29,9 +29,22 @@
 		F9D82EB12EB20B12001592FA /* FirstGesturesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstGesturesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F9D82F202EB36C6F001592FA /* Exceptions for "FirstGestures" folder in "FirstGestures" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = F9D82E972EB20B11001592FA /* FirstGestures */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F9D82E9A2EB20B11001592FA /* FirstGestures */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				F9D82F202EB36C6F001592FA /* Exceptions for "FirstGestures" folder in "FirstGestures" target */,
+			);
 			path = FirstGestures;
 			sourceTree = "<group>";
 		};
@@ -403,6 +416,7 @@
 				DEVELOPMENT_TEAM = 489JK8PZ4S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FirstGestures/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -440,6 +454,7 @@
 				DEVELOPMENT_TEAM = 489JK8PZ4S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FirstGestures/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

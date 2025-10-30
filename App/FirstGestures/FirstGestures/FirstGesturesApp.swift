@@ -25,7 +25,8 @@ struct FirstGesturesApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppRoot()
+            //.preferredColorScheme(.light) 
         }
         .modelContainer(sharedModelContainer)
     }

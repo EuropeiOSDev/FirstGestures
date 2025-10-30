@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "id": "welcome",
+      "titleKey": "onb_title",
+      "subtitleKey": "onb_subtitle",
+      "style": "plain"
+    },
+    {
+      "id": "how",
+      "titleKey": "onb_how_title",
+      "bulletsKey": "onb_how_bullets",
+      "style": "plain"
+    },
+    {
+      "id": "notes",
+      "titleKey": "onb_notes_title",
+      "bodyKey": "onb_notes_body",
+      "reminders": {
+        "titleKey": "onb_reminders_title",
+        "toggleKey": "onb_reminders_toggle",
+        "defaultHour": 18
+      },
+      "cta": {
+        "primaryKey": "onb_finish",
+        "secondaryKey": "onb_more_info"
+      },
+      "style": "plain"
+    }
+  ]
+}
