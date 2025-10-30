@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FirstGestures
+
+  Created by Valery Shel on 30.10.2025.
+  
+*/
+
+"CFBundleDisplayName" = "Первые жесты";
+"NSPhotoLibraryAddUsageDescription" = "Позволяет сохранять PDF карты в вашу галерею";
