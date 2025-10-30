@@ -1,0 +1,17 @@
+[
+  { "key":"give",     "labels":{"en":"Give","ru":"Дай"},        "symbolName":"hand.tap",              "isCore":true, "isFree":true,  "displayOrder":1 },
+  { "key":"yes",      "labels":{"en":"Yes","ru":"Да"},          "symbolName":"checkmark.circle.fill", "isCore":true, "isFree":false, "displayOrder":2 },
+  { "key":"no",       "labels":{"en":"No","ru":"Нет"},          "symbolName":"xmark.circle.fill",     "isCore":true, "isFree":false, "displayOrder":3 },
+  { "key":"more",     "labels":{"en":"More","ru":"Ещё"},        "symbolName":"plus.circle.fill",      "isCore":true, "isFree":false, "displayOrder":4 },
+  { "key":"stop",     "labels":{"en":"Stop","ru":"Стоп"},       "symbolName":"stop.circle.fill",      "isCore":true, "isFree":false, "displayOrder":5 },
+  { "key":"help",     "labels":{"en":"Help","ru":"Помоги"},     "symbolName":"questionmark.circle",   "isCore":true, "isFree":false, "displayOrder":6 },
+  { "key":"open",     "labels":{"en":"Open","ru":"Открой"},     "symbolName":"rectangle.portrait.and.arrow.forward", "isCore":true, "isFree":false, "displayOrder":7 },
+  { "key":"close",    "labels":{"en":"Close","ru":"Закрой"},    "symbolName":"rectangle.portrait.and.arrow.backward","isCore":true, "isFree":false, "displayOrder":8 },
+  { "key":"drink",    "labels":{"en":"Drink","ru":"Пить"},      "symbolName":"cup.and.saucer.fill",   "isCore":true, "isFree":false, "displayOrder":9 },
+  { "key":"eat",      "labels":{"en":"Eat","ru":"Кушать"},      "symbolName":"fork.knife",            "isCore":true, "isFree":false, "displayOrder":10 },
+  { "key":"go",       "labels":{"en":"Go","ru":"Пойдём"},       "symbolName":"arrow.forward.circle",  "isCore":true, "isFree":false, "displayOrder":11 },
+  { "key":"up",       "labels":{"en":"Up","ru":"Вверх"},        "symbolName":"arrow.up.circle",       "isCore":true, "isFree":false, "displayOrder":12 },
+  { "key":"down",     "labels":{"en":"Down","ru":"Вниз"},       "symbolName":"arrow.down.circle",     "isCore":true, "isFree":false, "displayOrder":13 },
+  { "key":"finished", "labels":{"en":"All done","ru":"Всё"},    "symbolName":"checkmark.seal",        "isCore":true, "isFree":false, "displayOrder":14 },
+  { "key":"toilet",   "labels":{"en":"Toilet","ru":"Туалет"},   "symbolName":"figure.seated.side.left", "isCore":true, "isFree":false, "displayOrder":15 }
+]
